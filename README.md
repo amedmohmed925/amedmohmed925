@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Ahmed Mohamed!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRvNmpwNHZ1cHkwcWE2ZzNpM3U0bzhhZDRkdmUxYml5bHN6NTMzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" alt="Coding Animation">
 </p>
 
 ---
