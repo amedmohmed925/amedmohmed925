@@ -9,7 +9,7 @@
 
 🚀 **Full Stack Developer** | React & Node.js  
 💡 Passionate about web development and building amazing projects!  
-🌍 [**My Portfolio**]([https://ahmed-muhamed.netlify.app/]) 🔥
+🌍 [**My Portfolio**](https://aahmedmuhamed.netlify.app/)) 🔥
 
 ---
 
