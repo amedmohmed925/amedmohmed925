@@ -7,9 +7,9 @@
 
 ---
 
-🚀 **Full Stack Developer** | React & Node.js  
+🚀 **Full Stack Developer** | React, Nextjs & Node.js  
 💡 Passionate about web development and building amazing projects!  
-🌍 [**My Portfolio**] [Click Here] (https://builtbyahmed.vercel.app/)🔥
+🌍 [**My Portfolio**] [Click Here] (https://builtbyahmed.vercel.app/ ) 🔥
 
 ---
 
