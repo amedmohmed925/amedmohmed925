@@ -9,7 +9,7 @@
 
 🚀 **Full Stack Developer** | React & Node.js  
 💡 Passionate about web development and building amazing projects!  
-🌍 [**My Portfolio**]((https://builtbyahmed.vercel.app/))) 🔥
+🌍 [**My Portfolio**] [Click Here] (https://builtbyahmed.vercel.app/)🔥
 
 ---
 
@@ -60,4 +60,4 @@
 
 ---
 
-🎬 **Want to see an awesome animation?** [Click Here] (https://aahmedmuhamed.netlify.app/)
+🎬 **Want to see an awesome animation?** [Click Here] (https://builtbyahmed.vercel.app/)
